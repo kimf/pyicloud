@@ -8,7 +8,8 @@ from pyicloud.exceptions import PyiCloudFailedLoginException
 from pyicloud.services import (
     FindMyiPhoneServiceManager,
     CalendarService,
-    UbiquityService
+    UbiquityService,
+    RemindersService,
 )
 
 
