@@ -9,7 +9,7 @@ from pyicloud.services import (
     FindMyiPhoneServiceManager,
     CalendarService,
     UbiquityService,
-    ContactsService
+    ContactsService,
     RemindersService
 )
 
