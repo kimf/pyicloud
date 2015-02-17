@@ -8,7 +8,7 @@ with open('requirements.txt') as f:
 setup(
     name='pyicloud',
     version='0.6.1',
-    url='https://github.com/picklepete/pyicloud',
+    url='https://github.com/kimf/pyicloud',
     description=(
         'PyiCloud is a module which allows pythonistas to '
         'interact with iCloud webservices.'
