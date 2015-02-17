@@ -10,6 +10,7 @@ from pyicloud.services import (
     CalendarService,
     UbiquityService,
     ContactsService
+    RemindersService
 )
 
 
